@@ -4,8 +4,7 @@
 <img src="pexels-eberhardgross-1287145 2.jpg">
 
 
-## About me
-
+## ⛄️ About me 
 - Computer Science Student 🧑‍🎓
 - Universitat Politècnica de València ⭐️
 - Learning every day 🧑🏻‍💻
