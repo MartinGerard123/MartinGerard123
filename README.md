@@ -1,16 +1,16 @@
 <div align="center">
-<h1 align="center">Hi! i am Martin</a> 👋</h1>
+<h1>Hi, I'm Martin 👋</h1>
 </div>
-<img src="pexels-eberhardgross-1287145 2.jpg">
+<img src="banner.jpg">
 
 
-## ⛄️ About me 
+## About me
 - Computer Science Student 🧑‍🎓
 - Universitat Politècnica de València ⭐️
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Languages</b>
 <br>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -20,10 +20,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartinGerard123&show_icons=true&theme=radical" width="350" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinGerard123&layout=compact&theme=radical" width="350" />
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Featured project</b>
+<br>
+
+### 🗳️ [Votify](https://github.com/MartinGerard123/Votify-Full-Stack-Mafia)
+Full-stack event & project voting platform — Flutter frontend + Spring Boot backend, built with a team for a university course.
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
