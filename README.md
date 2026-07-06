@@ -22,7 +22,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Featured project</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Featured projects</b>
 <br>
 
 ### 🗳️ [Votify](https://github.com/MartinGerard123/Votify-Full-Stack-Mafia)
@@ -31,3 +31,10 @@ Full-stack event & project voting platform — Flutter frontend + Spring Boot ba
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🔐 [EulersNightmare](https://github.com/MartinGerard123/EulersNightmare)
+A multi-tiered integer factorization tool for cryptographic analysis and CTF challenges — implements Miller-Rabin, Pollard's Rho (Brent), and Fermat factorization with automated bit-length targeting.
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-black?style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-red?style=for-the-badge)
